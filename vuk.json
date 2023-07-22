@@ -1,0 +1,16 @@
+{
+  "contact": "dsc.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Vuk PlaceHu",
+      "sources": [
+        "https://i.imgur.com/TvY2JMC.png"
+      ],
+      "x": -690,
+      "y": -30
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
