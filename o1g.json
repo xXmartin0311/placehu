@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "o1g",
+      "sources": [
+        "https://i.imgur.com/s98RFCO.png"
+      ],
+      "x": -692,
+      "y": -26
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
